@@ -6,6 +6,6 @@ so this project contains the use of
 - react-redux
 - client side routing
 
-<img src="./images/CaptureaddMemo.png" width="400" height="250">
+<img src="images/Capture add Memo.PNG" width="400" height="250">
 <img src="./images/Capture_Memo_home.png" width="400" height="250">
 <img src="./images/Capture_Memo_Description.png" width="400" height="250">
