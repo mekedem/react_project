@@ -8,4 +8,4 @@ so this project contains the use of
 
 <img src="images/Capture add Memo.PNG" width="600" height="340">
 <img src="images/Capture_Memo_Description.PNG" width="600" height="340">
-<img src="images/Capture_Memo_home.png" width="600" height="340">
+<img src="images/Capture_Memo_home.PNG" width="600" height="340">
